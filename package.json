@@ -1,0 +1,17 @@
+{
+  "name": "project-tasks",
+  "version": "1.0.0",
+  "description": "A task manager - CRUD",
+  "main": "index.js",
+  "author": "Bruno Paixao",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
